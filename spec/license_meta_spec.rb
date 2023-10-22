@@ -24,6 +24,7 @@ describe 'license meta' do
       it 'using contains 3 examples' do
         legacy = [
           'Asma_Ben_Ali.txt'
+          'Fourat_boulila.txt'
           'afl-3.0',
           'artistic-2.0',
           'bsd-3-clause-clear',
